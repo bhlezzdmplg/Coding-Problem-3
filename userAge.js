@@ -1,5 +1,5 @@
 // Collecting user's age and storing it in a variable
-let age = 25; // Replace this with the user's age input
+let age = 19;
 
 // Categorizing the age using a nested if-else statement
 if (age < 5) {
